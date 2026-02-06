@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Umeshkotwal02
-- 👀 I’m interested in Front-End-Technology.
-- 🌱 I’m currently learning Front-End & Back-End Technologies.
-- 💞️ I’m looking to collaborate on Excited to co-create success with you.
-- 📫 How to reach me https://www.linkedin.com/in/umeshkotwal07/.
-- 👨🏻‍🎓 Portfolio :- https://kotwaldevloperzone.netlify.app/
-- 😊 (: Happy :)
+- 💼 Frontend Developer with 1.5+ years of experience
+- 👀 Interested in building modern, responsive web applications
+- 🌱 Currently learning Backend Development to become a Full-Stack Developer
+- 💞️ Open to collaborating on real-world projects and exciting ideas
+- 📫 Reach me on LinkedIn: https://www.linkedin.com/in/umeshkotwal07/
+- 👨🏻‍🎓 Portfolio: https://umeshkotwal.vercel.app/
+- 😊 Always learning & happy to build 🚀
